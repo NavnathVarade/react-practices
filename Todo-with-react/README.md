@@ -79,8 +79,8 @@ src/
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/todo-app-react.git
-cd todo-app-react
+git clone https://github.com/NavnathVarade/react-practices.git
+cd react-practices/Todo-with-react
 
 # Install dependencies
 npm install
@@ -126,7 +126,8 @@ Deployed via **Vercel / Netlify**:
 
 ## 👨‍💻 Author
 
-**Your Name** – [@yourhandle](https://github.com/yourhandle)
+**Navnath Varade** – [GitHub](https://github.com/NavnathVarade)
+📂 [Project Repo](https://github.com/NavnathVarade/react-practices/tree/main/Todo-with-react)
 
 ---
 
@@ -152,7 +153,7 @@ git commit -m "Initial commit: Fully featured Todo App"
 
 ### 3. Push to GitHub
 ```bash
-git remote add origin https://github.com/your-username/todo-app-react.git
+git remote add origin https://github.com/NavnathVarade/react-practices.git
 git branch -M main
 git push -u origin main
 ```
